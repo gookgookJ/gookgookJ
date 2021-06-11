@@ -26,9 +26,14 @@
 <p align="center"> <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Velog%20-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@hangoook"/> </p> 
 
 
-
-
 <img src="https://capsule-render.vercel.app/api?type=slice&color=&height=200&section=footer&fontSize=90" />
+
+***********
+ ![Hangook's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!-- ![footer](https://capsule-render.vercel.app/api?section=footer) -->
 
 <!--
