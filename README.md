@@ -28,15 +28,6 @@
 
 
 
-
-<br>
-
-<br>
-<br>
-
-
-
-
 <img src="https://capsule-render.vercel.app/api?type=slice&color=&height=200&section=footer&fontSize=90" />
 <!-- ![footer](https://capsule-render.vercel.app/api?section=footer) -->
 
