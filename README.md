@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hangook&nbsp;Jang%20&fontSize=90)
+<!--![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hangook&nbsp;Jang%20&fontSize=90)-->
 
 
 ### <p align="center">  Hi there 👋 </p>
@@ -35,7 +35,7 @@
 
 
 
-![footer](https://capsule-render.vercel.app/api?section=footer)
+<!-- ![footer](https://capsule-render.vercel.app/api?section=footer) -->
 
 <!--
 **gookgookJ/gookgookJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
