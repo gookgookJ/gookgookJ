@@ -1,9 +1,13 @@
 <!--![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hangook&nbsp;Jang%20&fontSize=90)-->
 
+<img src="https://capsule-render.vercel.app/api?type=slice&color=&height=200&section=header&text=Hangook%20Jang&fontSize=90" />
+
+
+
 
 ### <p align="center">  Hi there 👋 </p>
-<p align="center"> Good day, my name is Hangook Jang and I'm studying development. 
-<p align="center"> I'm interested in everything that happens at the backend.</p>
+<p align="center"> Good day, my name is Hangook Jang and I'm studying development. 🛠 </p>
+<p align="center"> I'm interested in everything that happens at the backend. ✨ </p>
 
 <p align="center">If you want contact me, Please leave me a message !</p>
 
@@ -17,7 +21,6 @@
 <p align="center"> <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/> <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/> <img alt="NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" /> <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/> 
 <img src="https://img.shields.io/badge/TypeORM%20-eaa641?style=for-the-badge&logoColor=white&link=https://velog.io/@hangoook"/> </p>  </p>
  
-<p align="center">...</p>
 
 #### <p align="center"> [ETC] </p> 
 <p align="center"> <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Velog%20-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@hangoook"/> </p> 
@@ -34,7 +37,7 @@
 
 
 
-
+<img src="https://capsule-render.vercel.app/api?type=slice&color=&height=200&section=footer&fontSize=90" />
 <!-- ![footer](https://capsule-render.vercel.app/api?section=footer) -->
 
 <!--
