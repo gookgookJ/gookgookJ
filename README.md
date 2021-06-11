@@ -1,5 +1,8 @@
 ### Hi there 👋
+Good day, my name is Hangook Jang and I'm studying development. <br>
+I'm interested in everything that happens at the backend.
 
+If you want contact me, Please leave me a message !
 <!--
 **gookgookJ/gookgookJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
