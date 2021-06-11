@@ -29,8 +29,8 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=&height=200&section=footer&fontSize=90" />
 
 ***********
- ![Hangook's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--![gookgookJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=gookgookJ&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gookgookJ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
 
