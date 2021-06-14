@@ -6,7 +6,7 @@
 
 
 ### <p align="center">  Hi there 👋 </p>
-<p align="center"> Good day, my name is Hangook Jang and I'm studying development. 🛠 </p>
+<p align="center"> Good day, my name is Hangook Jang and I'm studying software development. 🛠 </p>
 <p align="center"> I'm interested in everything that happens at the backend. ✨ </p>
 
 <p align="center">If you want contact me, Please leave me a message !</p>
